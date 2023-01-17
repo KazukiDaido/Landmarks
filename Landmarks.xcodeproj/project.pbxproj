@@ -12,6 +12,7 @@
 		44CDFF7C2975C576009D9968 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 44CDFF7B2975C576009D9968 /* Assets.xcassets */; };
 		44CDFF7F2975C576009D9968 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 44CDFF7E2975C576009D9968 /* Preview Assets.xcassets */; };
 		44CDFF862975CDCE009D9968 /* Circle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44CDFF852975CDCE009D9968 /* Circle.swift */; };
+		44CDFF8829773061009D9968 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44CDFF8729773061009D9968 /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		44CDFF7B2975C576009D9968 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		44CDFF7E2975C576009D9968 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		44CDFF852975CDCE009D9968 /* Circle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Circle.swift; sourceTree = "<group>"; };
+		44CDFF8729773061009D9968 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				44CDFF792975C575009D9968 /* ContentView.swift */,
 				44CDFF7B2975C576009D9968 /* Assets.xcassets */,
 				44CDFF852975CDCE009D9968 /* Circle.swift */,
+				44CDFF8729773061009D9968 /* MapView.swift */,
 				44CDFF7D2975C576009D9968 /* Preview Content */,
 			);
 			path = Landmarks;
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				44CDFF7A2975C575009D9968 /* ContentView.swift in Sources */,
+				44CDFF8829773061009D9968 /* MapView.swift in Sources */,
 				44CDFF782975C575009D9968 /* LandmarksApp.swift in Sources */,
 				44CDFF862975CDCE009D9968 /* Circle.swift in Sources */,
 			);
