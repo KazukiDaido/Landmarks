@@ -18,6 +18,7 @@
 		44CDFF8E2977A939009D9968 /* ModelDate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44CDFF8D2977A939009D9968 /* ModelDate.swift */; };
 		44CDFF932977AF81009D9968 /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44CDFF922977AF81009D9968 /* LandmarkRow.swift */; };
 		44CDFF952977B766009D9968 /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44CDFF942977B766009D9968 /* LandmarkList.swift */; };
+		44CDFF992977BB19009D9968 /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44CDFF982977BB19009D9968 /* LandmarkDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		44CDFF8D2977A939009D9968 /* ModelDate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelDate.swift; sourceTree = "<group>"; };
 		44CDFF922977AF81009D9968 /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
 		44CDFF942977B766009D9968 /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
+		44CDFF982977BB19009D9968 /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +93,7 @@
 				44CDFF8729773061009D9968 /* MapView.swift */,
 				44CDFF922977AF81009D9968 /* LandmarkRow.swift */,
 				44CDFF942977B766009D9968 /* LandmarkList.swift */,
+				44CDFF982977BB19009D9968 /* LandmarkDetail.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 				44CDFF8829773061009D9968 /* MapView.swift in Sources */,
 				44CDFF782975C575009D9968 /* LandmarksApp.swift in Sources */,
 				44CDFF952977B766009D9968 /* LandmarkList.swift in Sources */,
+				44CDFF992977BB19009D9968 /* LandmarkDetail.swift in Sources */,
 				44CDFF8E2977A939009D9968 /* ModelDate.swift in Sources */,
 				44CDFF862975CDCE009D9968 /* Circle.swift in Sources */,
 				44CDFF932977AF81009D9968 /* LandmarkRow.swift in Sources */,
